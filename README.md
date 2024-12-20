@@ -34,8 +34,8 @@
     <!-- <img width="15"/> -->
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="39" alt="php logo"/>
     <img width="15"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" width="39" alt="cplusplus logo"/>
-    <img width="15"/>
+    <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" width="39" alt="cplusplus logo"/>
+    <img width="15"/> -->
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="39" alt="python logo"/>
     <img width="15"/>
     <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" width="39" alt="nodejs logo"/> -->
