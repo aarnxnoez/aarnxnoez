@@ -23,6 +23,7 @@
   <h2> Skills </h2>
   
   <div align="center">
+    <img src="https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white" />
     <img width="15"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="39" alt="html5 logo"/>
     <img width="15"/>
