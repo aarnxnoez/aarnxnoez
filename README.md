@@ -2,18 +2,14 @@
     * {
         font-family: courier;
     }
-    .container-skills {
-        display: grid;
-    }
     .container-matplotlib, .container-visual-basic, .container-visual-studio, .container-visual-studio-code, .container-java, .container-c, .container-windows {
-        display: inline-block;
+        height: 28px;
     }
     .container-logo-matplotlib, .container-logo-visual-basic, .container-logo-visual-studio, .container-logo-visual-studio-code, .container-logo-java, .container-logo-c, .container-logo-windows {
-        /* background-color: #000000; */
         height: 28px;
         width: 32px;
         float: left;
-        align-items:center;
+        align-items: center;
         justify-content: center;
         display: flex;
     }
@@ -36,7 +32,7 @@
     <h3>I'm currently studying AI Engineering.</h3>
     <br>
     <h2> Skills </h2>
-    <div class="container-skills">
+    <div class="container-skills" style="border: 1px solid white; display: grid; grid-template-columns: 20% 20% 20% 20% 20%;">
         <img alt="Static Badge" src="https://img.shields.io/badge/keras-transparent?style=for-the-badge&logo=keras&logoColor=%23ff0000&labelColor=black&color=%23ff0000">
         <img alt="Static Badge" src="https://img.shields.io/badge/pytorch-transparent?style=for-the-badge&logo=pytorch&logoColor=%23dc3f1d&labelColor=black&color=%23dc3f1d">
         <img alt="Static Badge" src="https://img.shields.io/badge/tensorflow-transparent?style=for-the-badge&logo=tensorflow&logoColor=%23ff992d&labelColor=black&color=%23ff992d">
@@ -48,7 +44,7 @@
         <img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-transparent?style=for-the-badge&logo=javascript&logoColor=%23fcff00&labelColor=black&color=%23fcff00">
         <img alt="Static Badge" src="https://img.shields.io/badge/Android%20Studio-transparent?style=for-the-badge&logo=android%20studio&logoColor=%23068300&labelColor=black&color=%23068300">
         <img alt="Static Badge" src="https://img.shields.io/badge/apache%20netbeans-transparent?style=for-the-badge&logo=apache%20netbeans%20ide&logoColor=%230ad000&labelColor=black&color=%230ad000">
-        <div class="container-matplotlib">
+        <div class="container-matplotlib" style="display: inline-block; heigth: 28px;">
             <div class="container-logo-matplotlib" style="background-color: black;">
                 <img alt="Static Badge" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-plain.svg" width="15" height="15"/>
             </div>
@@ -110,11 +106,9 @@
             <div class="container-name">
                 <img alt="Static Badge" src="https://img.shields.io/badge/windows-transparent?style=for-the-badge&color=%23008bd9">
             </div>
-            </div>
-                <img alt="Static Badge" src="https://img.shields.io/badge/manjaro-transparent?style=for-the-badge&logo=manjaro&logoColor=%2335bf5c&labelColor=black&color=%2335bf5c">
-                <img alt="Static Badge" src="https://img.shields.io/badge/apple-transparent?style=for-the-badge&logo=apple&logoColor=%23fff&labelColor=black&color=%23fff">
-            </div>
         </div>
+        <img alt="Static Badge" src="https://img.shields.io/badge/manjaro-transparent?style=for-the-badge&logo=manjaro&logoColor=%2335bf5c&labelColor=black&color=%2335bf5c">
+        <img alt="Static Badge" src="https://img.shields.io/badge/apple-transparent?style=for-the-badge&logo=apple&logoColor=%23fff&labelColor=black&color=%23fff">
     </div>
 </div>
 </body>
