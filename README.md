@@ -62,5 +62,6 @@
         <img/>
         <img alt="Static Badge" src="https://img.shields.io/badge/apple-transparent?style=for-the-badge&logo=apple&logoColor=%23fff&labelColor=black&color=%23fff">
     </div>
+    <br>
 </div>
 </body>
