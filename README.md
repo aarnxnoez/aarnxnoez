@@ -21,6 +21,8 @@
         <img/>
         <img alt="Static Badge" src="https://img.shields.io/badge/pandas-transparent?style=for-the-badge&logo=pandas&logoColor=%23450066&labelColor=black&color=%23450066">
         <img/>
+        <img alt="Static Badge" src="https://img.shields.io/badge/sklearn-transparent?style=for-the-badge&logo=scikitlearn&logoColor=%23f7931e&labelColor=black&color=%23f7931e">
+        <img/>
         <img alt="Static Badge" src="https://img.shields.io/badge/plotly-transparent?style=for-the-badge&logo=plotly&logoColor=%23434343&labelColor=black&color=%23434343">
         <img/>
         <img alt="Static Badge" src="https://img.shields.io/badge/jupyter-transparent?style=for-the-badge&logo=jupyter&logoColor=%23ed8400&labelColor=black&color=%23ed8400">
