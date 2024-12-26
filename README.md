@@ -15,6 +15,8 @@
     <div>
         <img alt="Static Badge" src="https://img.shields.io/badge/keras-transparent?style=for-the-badge&logo=keras&logoColor=%23ff0000&labelColor=black&color=%23ff0000">
         <img/>
+        <img alt="Static Badge" src="https://img.shields.io/badge/numpy-transparent?style=for-the-badge&logo=numpy&logoColor=%23013243&labelColor=black&color=%23013243">
+        <img/>
         <img alt="Static Badge" src="https://img.shields.io/badge/pytorch-transparent?style=for-the-badge&logo=pytorch&logoColor=%23dc3f1d&labelColor=black&color=%23dc3f1d">
         <img/>
         <img alt="Static Badge" src="https://img.shields.io/badge/tensorflow-transparent?style=for-the-badge&logo=tensorflow&logoColor=%23ff992d&labelColor=black&color=%23ff992d">
