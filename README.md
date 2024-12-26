@@ -19,6 +19,8 @@
         <img/>
         <img alt="Static Badge" src="https://img.shields.io/badge/pytorch-transparent?style=for-the-badge&logo=pytorch&logoColor=%23dc3f1d&labelColor=black&color=%23dc3f1d">
         <img/>
+        <img alt="Static Badge" src="https://img.shields.io/badge/opencv-transparent?style=for-the-badge&logo=opencv&logoColor=%235c3ee8&labelColor=black&color=%235c3ee8">
+        <img/>
         <img alt="Static Badge" src="https://img.shields.io/badge/tensorflow-transparent?style=for-the-badge&logo=tensorflow&logoColor=%23ff992d&labelColor=black&color=%23ff992d">
         <img/>
         <img alt="Static Badge" src="https://img.shields.io/badge/pandas-transparent?style=for-the-badge&logo=pandas&logoColor=%23450066&labelColor=black&color=%23450066">
