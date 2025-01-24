@@ -66,7 +66,7 @@
         <img/>
         <img alt="Static Badge" src="https://img.shields.io/badge/manjaro-transparent?style=for-the-badge&logo=manjaro&logoColor=%2335bf5c&labelColor=black&color=%2335bf5c">
         <img/>
-        <img alt="Static Badge" src="https://img.shields.io/badge/apple-transparent?style=for-the-badge&logo=apple&logoColor=%23fff&labelColor=black&color=%23fff">
+        <img alt="Static Badge" src="https://img.shields.io/badge/macos%20-transparent?style=for-the-badge&logo=apple&logoColor=%23fff&labelColor=%23000000&color=%23ffffff">
     </div>
     <br>
 </div>
